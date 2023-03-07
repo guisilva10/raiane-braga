@@ -407,10 +407,17 @@ section {
   color: #fff;
   text-align: center;
   margin-right: .3rem;
+  margin-bottom: 2rem;
 }
 
 .contact .row .info-container .share a:hover {
   background: #1a1649;
+}
+
+.contact .row .info-container .adress{
+  margin:1.5rem 0;
+  font-size: 2.3rem;
+  color: #1a1a1a;
 }
 
 .contact .row form {
